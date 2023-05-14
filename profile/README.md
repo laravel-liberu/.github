@@ -1,6 +1,6 @@
 ## CGD Software
 
-Open source projects licensed under MIT. See https://github.com/cgd-ui for our client side projects.
+Open source projects licensed under MIT. See https://github.com/liberu-ui for our client side projects.
 
 ### Support services (new)
 While developing genealogy, we constantly received private inquiries from devs and teams asking us about paid support. Some of these requests even lead to fruitful collaborations, so we finally decided to launch such an option.
