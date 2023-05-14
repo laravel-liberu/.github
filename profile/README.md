@@ -1,4 +1,4 @@
-## CGD Software
+## Laravel Liberu
 
 Open source projects licensed under MIT. See https://github.com/liberu-ui for our client side projects.
 
