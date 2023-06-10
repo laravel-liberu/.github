@@ -1,12 +1,12 @@
 ## Laravel Liberu
 Open source projects licensed under MIT. See https://github.com/liberu-ui for our client side projects.
 ## Our Projects
-https://github.com/laravel-liberu/genealogy - Family tree builder website
-https://github.com/laravel-liberu/laravel-gedcom - GEDCOM reading and writing for Laravel
-https://github.com/laravel-liberu/php-gedcom - GEDCOM reading and writing for PHP 8.2
-https://github.com/laravel-liberu/php-dna - DNA kit processing for PHP 8.2
+* https://github.com/laravel-liberu/genealogy - Family tree builder website
+* https://github.com/laravel-liberu/laravel-gedcom - GEDCOM reading and writing for Laravel
+* https://github.com/laravel-liberu/php-gedcom - GEDCOM reading and writing for PHP 8.2
+* https://github.com/laravel-liberu/php-dna - DNA kit processing for PHP 8.2
 
-See https://github.com/orgs/laravel-liberu/repositories for more of our repositories.
+* See https://github.com/orgs/laravel-liberu/repositories for more of our repositories.
 ## Support services  
 While developing https://github.com/laravel-liberu/genealogy, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
 If you need premium support when building your own applications with genealogy, we can help. Our support packages start at £200 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
