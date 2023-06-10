@@ -1,7 +1,7 @@
 ## Laravel Liberu
 Open source projects licensed under MIT. See https://github.com/liberu-ui for our client side projects.
 ## Our Projects
-* https://github.com/laravel-liberu/genealogy - Family tree builder website
+* https://github.com/laravel-liberu/genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
 * https://github.com/laravel-liberu/laravel-gedcom - GEDCOM reading and writing for Laravel
 * https://github.com/laravel-liberu/php-gedcom - GEDCOM reading and writing for PHP 8.2
 * https://github.com/laravel-liberu/php-dna - DNA kit processing for PHP 8.2
