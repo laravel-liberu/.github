@@ -1,5 +1,14 @@
 ## Laravel Liberu
-Open source projects licensed under MIT. See https://github.com/liberu-ui for our client side projects.
+See https://github.com/liberu-ui for our client side projects.
+
+Genealogy Websites is an innovative open source project built using Laravel 10 and PHP 8.2, aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.2 to create a cutting-edge platform for exploring and preserving ancestral heritage.
+
+At the core of our project is a sophisticated genealogy website built on Laravel 10, providing users with a seamless and intuitive experience as they delve into their family lineage. Leveraging Laravel's elegant syntax and comprehensive set of tools, we have developed a feature-rich application that enables users to create, manage, and explore their family trees with ease.
+
+Moreover, the open source nature of our project encourages collaboration and innovation within the genealogy community. Developers can leverage Laravel 10 and PHP 8.2 to extend the functionality of Genealogy Websites, contribute enhancements, and customize the platform to suit their specific requirements. We actively support a thriving community of developers who utilize our open source code to create complementary tools and applications, fostering an ecosystem of continuous improvement and expansion.
+
+Licensed under MIT, use for any personal or commercial project.
+
 ## Our Projects
 * https://github.com/laravel-liberu/genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
 * https://github.com/laravel-liberu/laravel-gedcom - GEDCOM reading and writing for Laravel
@@ -16,7 +25,7 @@ See https://github.com/orgs/laravel-liberu/repositories for more of our reposito
 ## Sponsorship
 Genealogy Websites is dedicated to connecting individuals with their family history and facilitating the exploration of their ancestral roots. Through our flagship website, Family Tree 365, we offer a comprehensive platform where users can create and navigate their family trees, connect with relatives, and access historical records. Our project aims to make genealogy accessible to all, regardless of their background or financial resources.
 
-[https://www.genealogywebsites.org.uk](https://genealogywebsites.org.uk/donate/)
+[https://www.genealogywebsites.org.uk/donate](https://genealogywebsites.org.uk/donate/)
 By sponsoring Genealogy Websites, your company/organization can make a meaningful impact in the following ways:
 
 * Promote Corporate Social Responsibility: Your sponsorship will demonstrate your commitment to social responsibility by supporting a project that enables individuals to discover and preserve their family heritage. It showcases your company/organization's dedication to empowering communities and preserving cultural legacies.
