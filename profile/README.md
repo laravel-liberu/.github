@@ -15,7 +15,7 @@ Licensed under MIT, use for any personal or commercial project.
 * https://github.com/laravel-liberu/php-gedcom - GEDCOM reading and writing for PHP 8.2
 * https://github.com/laravel-liberu/php-dna - DNA kit processing for PHP 8.2
 
-  ## About
+## About
 Genealogy Websites is a non profit organisation that operates Family Tree 365, a website dedicated to helping individuals explore their family history. Our mission is to make genealogy accessible to all, and we offer free access to open source code for developers to innovate in the field.
 
 We are currently seeking Trustees to join our non profit organisation and contribute to our mission. If you are passionate about genealogy, socially responsible, and possess relevant skills and experience, we invite you to apply. As a Trustee, you will play a vital role in shaping our organization's future and ensuring the effective fulfillment of our mission.
