@@ -1,11 +1,11 @@
 ## Laravel Liberu
 See https://github.com/liberu-ui for our client side projects.
 
-Genealogy Websites is an innovative open source project built using Laravel 10 and PHP 8.2, aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.2 to create a cutting-edge platform for exploring and preserving ancestral heritage.
+Liberu is an innovative open source project built using Laravel 10 and PHP 8.2, aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.2 to create a cutting-edge platform for exploring and preserving ancestral heritage.
 
-At the core of our project is a sophisticated genealogy website built on Laravel 10, providing users with a seamless and intuitive experience as they delve into their family lineage. Leveraging Laravel's elegant syntax and comprehensive set of tools, we have developed a feature-rich application that enables users to create, manage, and explore their family trees with ease.
+Our main project is a sophisticated genealogy website built on Laravel 10, providing users with a seamless and intuitive experience as they delve into their family lineage. Leveraging Laravel's elegant syntax and comprehensive set of tools, we have developed a feature-rich application that enables users to create, manage, and explore their family trees with ease.
 
-Moreover, the open source nature of our project encourages collaboration and innovation within the genealogy community. Developers can leverage Laravel 10 and PHP 8.2 to extend the functionality of Genealogy Websites, contribute enhancements, and customize the platform to suit their specific requirements. We actively support a thriving community of developers who utilize our open source code to create complementary tools and applications, fostering an ecosystem of continuous improvement and expansion.
+Moreover, the open source nature of our projects encourage collaboration and innovation within the genealogy community. Developers can leverage Laravel 10 and PHP 8.2 to extend the functionality of Liberu, contribute enhancements, and customize the platform to suit their specific requirements. We actively support a thriving community of developers who utilize our open source code to create complementary tools and applications, fostering an ecosystem of continuous improvement and expansion.
 
 Licensed under MIT, use for any personal or commercial project.
 
@@ -16,24 +16,29 @@ Licensed under MIT, use for any personal or commercial project.
 * https://github.com/laravel-liberu/php-dna - DNA kit processing for PHP 8.2
 
 ## About
-Genealogy Websites is a non profit organisation that operates Family Tree 365, a website dedicated to helping individuals explore their family history. Our mission is to make genealogy accessible to all, and we offer free access to open source code for developers to innovate in the field.
+Our team of skilled developers and designers is passionate about creating innovative solutions that transform businesses and streamline processes.
 
-We are currently seeking Trustees to join our non profit organisation and contribute to our mission. If you are passionate about genealogy, socially responsible, and possess relevant skills and experience, we invite you to apply. As a Trustee, you will play a vital role in shaping our organization's future and ensuring the effective fulfillment of our mission.
+At Liberu, we harness the power of Laravel 10, PHP 8.2, Vue 3, and Nuxt 3 to build robust and scalable applications that cater to the unique needs of our clients. These industry-leading technologies allow us to develop high-performance web applications, APIs, and microservices with unparalleled efficiency and reliability.
+
+Our Approach:
+We believe that every project is unique and deserves a customized approach. When you partner with Liberu, we take the time to understand your business goals, challenges, and requirements. Our team of experts collaborates closely with you to design, develop, and deliver tailor-made solutions that drive growth and enhance your competitive edge.
+
+At Liberu, we are committed to delivering excellence in every project we undertake. With a customer-centric approach, top-notch expertise, and a passion for innovation, we strive to exceed your expectations and help you achieve your business goals.
 
 
 See https://github.com/orgs/laravel-liberu/repositories for more of our repositories.
 ## Sponsorship
-Genealogy Websites is dedicated to connecting individuals with their family history and facilitating the exploration of their ancestral roots. Through our flagship website, Family Tree 365, we offer a comprehensive platform where users can create and navigate their family trees, connect with relatives, and access historical records. Our project aims to make genealogy accessible to all, regardless of their background or financial resources.
+Liberu is dedicated to connecting individuals with their family history and facilitating the exploration of their ancestral roots. Through our flagship website, Family Tree 365, we offer a comprehensive platform where users can create and navigate their family trees, connect with relatives, and access historical records. Our project aims to make genealogy accessible to all, regardless of their background or financial resources.
 
 https://github.com/sponsors/laravel-liberu
 
-By sponsoring Genealogy Websites, your company/organization can make a meaningful impact in the following ways:
+By sponsoring Liberu, your company/organization can make a meaningful impact in the following ways:
 
 * Promote Corporate Social Responsibility: Your sponsorship will demonstrate your commitment to social responsibility by supporting a project that enables individuals to discover and preserve their family heritage. It showcases your company/organization's dedication to empowering communities and preserving cultural legacies.
 * Increase Brand Visibility: As a sponsor, your company/organization will receive prominent recognition and visibility on our website, promotional materials, and marketing campaigns. This exposure allows you to reach our extensive user base and the wider genealogy community, enhancing brand recognition and strengthening your market position.
-* Targeted Audience Engagement: Genealogy Websites attracts a diverse and highly engaged audience interested in genealogy, history, and heritage. By sponsoring our project, you gain direct access to this target audience, enabling you to build meaningful connections, foster brand loyalty, and generate potential leads.
-* Collaboration and Networking Opportunities: Sponsoring Genealogy Websites opens doors to collaboration and partnership opportunities within the genealogy and heritage sectors. We welcome the chance to explore mutually beneficial initiatives that align with our shared goals, such as joint events, content creation, or co-branded projects.
-* Corporate Image and Reputation: Supporting an innovative and impactful project like Genealogy Websites enhances your company/organization's image as a forward-thinking and socially conscious entity. It showcases your dedication to fostering education, cultural preservation, and community engagement, strengthening your reputation among stakeholders and potential customers.
+* Targeted Audience Engagement: Liberu attracts a diverse and highly engaged audience interested in genealogy, history, and heritage. By sponsoring our project, you gain direct access to this target audience, enabling you to build meaningful connections, foster brand loyalty, and generate potential leads.
+* Collaboration and Networking Opportunities: Sponsoring Liberu opens doors to collaboration and partnership opportunities within the genealogy and heritage sectors. We welcome the chance to explore mutually beneficial initiatives that align with our shared goals, such as joint events, content creation, or co-branded projects.
+* Corporate Image and Reputation: Supporting an innovative and impactful project like Liberu enhances your company/organization's image as a forward-thinking and socially conscious entity. It showcases your dedication to fostering education, cultural preservation, and community engagement, strengthening your reputation among stakeholders and potential customers.
 
 ## Support services  
 While developing https://github.com/laravel-liberu/genealogy, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
