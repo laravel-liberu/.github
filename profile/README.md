@@ -24,6 +24,7 @@ Under development:
 
 Planning stage:
 
+* https://github.com/laravel-liberu/real-estate
 * https://github.com/laravel-liberu/ecommerce
 * https://github.com/laravel-liberu/cms
 * https://github.com/laravel-liberu/maintenance
