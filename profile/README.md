@@ -14,10 +14,20 @@ Licensed under MIT, use for any personal or commercial project.
 Custom Web Application Development: Our team of Laravel experts utilizes the full potential of Laravel 10, PHP 8.2, Vue 3, and Nuxt 3 to create custom web applications that align perfectly with your business objectives. We combine functionality, usability, and aesthetics to deliver exceptional user experiences.
 
 ## Our Projects
+
+Under development:
+
 * https://github.com/laravel-liberu/genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
 * https://github.com/laravel-liberu/laravel-gedcom - GEDCOM reading and writing for Laravel
 * https://github.com/laravel-liberu/php-gedcom - GEDCOM reading and writing for PHP 8.2
 * https://github.com/laravel-liberu/php-dna - DNA kit processing for PHP 8.2
+
+Planning stage:
+
+* https://github.com/laravel-liberu/ecommerce
+* https://github.com/laravel-liberu/cms
+* https://github.com/laravel-liberu/maintenance
+* https://github.com/laravel-liberu/billing
 
 ## About
 Our team of skilled developers and designers is passionate about creating innovative solutions that transform businesses and streamline processes.
