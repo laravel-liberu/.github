@@ -24,11 +24,12 @@ Under development:
 
 Planning stage:
 
-* https://github.com/laravel-liberu/real-estate
-* https://github.com/laravel-liberu/ecommerce
-* https://github.com/laravel-liberu/cms
-* https://github.com/laravel-liberu/maintenance
+* https://github.com/laravel-liberu/accounting
 * https://github.com/laravel-liberu/billing
+* https://github.com/laravel-liberu/cms
+* https://github.com/laravel-liberu/ecommerce
+* https://github.com/laravel-liberu/maintenance
+* https://github.com/laravel-liberu/real-estate
 
 ## About
 Our team of skilled developers and designers is passionate about creating innovative solutions that transform businesses and streamline processes.
