@@ -1,7 +1,7 @@
 ## Laravel Liberu
 See https://github.com/liberu-ui for our client side projects.
 
-Liberu is an innovative open source project built using Laravel 10 and PHP 8.2, aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.2 to create a cutting-edge platform for exploring and preserving ancestral heritage.
+Liberu is an innovative open source project built using Laravel 10 and PHP 8.2, aimed at revolutionizing the field of open source. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.2 to create a cutting-edge platform for building any project.
 
 Our main project is a sophisticated genealogy website built on Laravel 10, providing users with a seamless and intuitive experience as they delve into their family lineage. Leveraging Laravel's elegant syntax and comprehensive set of tools, we have developed a feature-rich application that enables users to create, manage, and explore their family trees with ease.
 
