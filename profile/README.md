@@ -1,5 +1,5 @@
 # Laravel Liberu
-## See https://github.com/liberu-ui for our client side projects.
+## See https://github.com/liberu-ui for our Vue 3 / Nuxt 3 client side projects.
 
 Liberu is an innovative open source project built using Laravel 10 and PHP 8.2, aimed at revolutionizing the field of open source. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.2 to create a cutting-edge platform for building any project.
 
