@@ -18,7 +18,7 @@ Custom Web Application Development: Our team of Laravel experts utilizes the ful
 Under development:
 
 * https://github.com/laravel-liberu/liberu - Boilerplate application using Laravel 10
-* https://github.com/laravel-liberu/ecommerce - Ecommerce system written in Laravel 10 using PHP 8.2
+* [https://github.com/laravel-liberu/ecommerce](https://github.com/liberu-ecommerce) - Ecommerce system written in Laravel 10 using PHP 8.2
 * https://github.com/laravel-liberu/genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
 * https://github.com/laravel-liberu/laravel-gedcom - GEDCOM reading and writing for Laravel
 * https://github.com/laravel-liberu/php-gedcom - GEDCOM reading and writing for PHP 8.2
