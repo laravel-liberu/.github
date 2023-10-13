@@ -17,20 +17,21 @@ Custom Web Application Development: Our team of Laravel experts utilizes the ful
 
 Under development:
 
-* https://github.com/laravel-liberu/liberu - Boilerplate application using Laravel 10
+* https://github.com/laravel-liberu/boilerplate - Boilerplate application using Laravel 10
 * [https://github.com/liberu-ecommerce](https://github.com/liberu-ecommerce) - Ecommerce system written in Laravel 10 using PHP 8.2
-* https://github.com/laravel-liberu/genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
-* https://github.com/laravel-liberu/laravel-gedcom - GEDCOM reading and writing for Laravel
-* https://github.com/laravel-liberu/php-gedcom - GEDCOM reading and writing for PHP 8.2
-* https://github.com/laravel-liberu/php-dna - DNA kit processing for PHP 8.2
+* https://github.com/liberu-genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
+* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel
+* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.2
+* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.2
 
 Planning stage:
 
-* https://github.com/laravel-liberu/accounting
-* https://github.com/laravel-liberu/billing
-* https://github.com/laravel-liberu/cms
-* https://github.com/laravel-liberu/maintenance
-* https://github.com/laravel-liberu/real-estate
+* https://github.com/liberu-accounting
+* https://github.com/liberu-automation
+* https://github.com/liberu-cms
+* https://github.com/liberu-crm
+* https://github.com/liberu-maintenance
+* https://github.com/liberu-real-estate
 
 ## About
 Our team of skilled developers and designers is passionate about creating innovative solutions that transform businesses and streamline processes.
@@ -58,8 +59,8 @@ By sponsoring Liberu, your company/organization can make a meaningful impact in 
 * Corporate Image and Reputation: Supporting an innovative and impactful project like Liberu enhances your company/organization's image as a forward-thinking and socially conscious entity. It showcases your dedication to fostering education, cultural preservation, and community engagement, strengthening your reputation among stakeholders and potential customers.
 
 ## Support services  
-While developing https://github.com/laravel-liberu/genealogy, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
-If you need premium support when building your own applications with genealogy, we can help. Our support packages start at £500 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
+While developing our projects, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
+If you need premium support when building your own applications with Liberu, we can help. Our support packages start at £500 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
 ### With premium support you will get:
 
 * First priority on having your issues addressed
